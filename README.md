@@ -5,4 +5,4 @@ My dive into GitHub - This repository is for practicing the GitHub Flow
 
 <p>I am Really enjoying Coding</p>
 
-<p>Somehoe this is really easy for me</p>
+<p>Somehow this is really easy for me</p>
